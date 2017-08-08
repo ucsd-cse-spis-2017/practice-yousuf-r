@@ -4,4 +4,4 @@ I am from Southern Orange County. Apart from living there for most of my life, I
 I enjoy playing soccer and swimming. I also am an Eagle Scout, where I enjoyed my time hiking and camping. 
 Through the SPIS program, I hope to reduce the uncertaitnites and worries I have towards computer science and I hope to gain a strong foundation in this field!
 
-![me](yousuf-r.jpg)
+![me](yousuf-r.png.jpg)
